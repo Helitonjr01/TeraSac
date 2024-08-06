@@ -1,0 +1,7 @@
+1- Criar rotas e controladores para lidar com o processo de autenticação, como o login e o registro de usuários.
+
+2- Implementar a lógica de hash e criptografia para armazenar as senhas dos usuários de forma segura no banco de dados. XX
+
+3- Utilizar bibliotecas de autenticação, como o Passport.js, para facilitar a autenticação e a autorização. XX
+
+4- Gerar e gerenciar tokens de autenticação, como tokens JWT (JSON Web Tokens), para autenticar as solicitações do usuário. XX

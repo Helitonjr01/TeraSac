@@ -1,0 +1,13 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./main/index.mjs",
+  "type": "module",
+  "dependencies": {
+  
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
